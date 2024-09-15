@@ -1,0 +1,48 @@
+
+.main-img{
+
+    margin-left: 70%;
+    margin-top: -24rem;
+    width: 15rem;
+    height: auto;
+    z-index: 0;
+}
+.main-img img {
+    width: 100%; /* Ensure image takes up the full container width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.header{
+    margin-top: 8rem;
+    margin-left: 6rem;
+    color: antiquewhite;
+    width: 500px;
+    font-size: larger;
+
+}
+.para{
+    width: 500px;
+    font-size: 1.2rem;
+}
+
+.crtBtn{
+    height: 2rem;
+    box-sizing: border-box;
+    border-radius: 0.4rem;
+    color: rgba(4, 35, 59, 0.874);
+    font-weight: bold;
+    border-color: rgb(5, 89, 153);
+    margin-top: 2rem;
+}
+.crtBtn:hover{
+    background-color: rgb(157, 159, 160);
+    color: rgb(11, 12, 12);
+}
+body {
+    background-color: rgba(4, 35, 59, 0.874);;
+}
+.hd{
+    width: auto;
+    height: 22rem;
+
+}

@@ -1,0 +1,43 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    margin-right: 0rem;
+    margin-bottom: 0;
+    color: white;
+}
+.Ai{
+    margin-left: 12rem;
+}
+.Dt{
+    margin-left: 0rem;
+}
+.Aic{
+    margin-left: 0rem;
+}
+.p{
+    margin-left: 12rem;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    
+}
+.p1{
+    margin-top: 0 rem;
+    margin-top: auto;
+}
+.p2{
+    margin-left: 18rem;
+    margin-top: auto;
+}
+.p3{
+    margin-left: 21.5rem;
+    margin-top: auto;
+}
+.section{
+    margin-top: 5rem;
+    width: auto;
+    height: 7rem;
+    background-color: rgba(4, 35, 59, 0.874);;
+}
+
+

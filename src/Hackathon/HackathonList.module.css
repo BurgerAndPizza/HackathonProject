@@ -1,0 +1,48 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 8rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.list1, .list > div {
+    text-align: center;
+    width: fit-content;
+    box-sizing: border-box; 
+}
+
+.img1, .img3, .list > div img {
+    width: 400px; 
+    height: auto;
+    display: block; 
+}
+
+.content {
+    border: 2px solid #ccc;
+    background-color: #ccc;
+    padding: 20px;
+    border-top: none; 
+    width: 357px; 
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+h3{
+    width: 70%;
+    margin-left: 3.5rem;
+    
+}
+.PrtBtn{
+    width: 9rem;
+    font-weight: bold;
+    height: 1.7rem;
+    border-radius: 0.4rem;
+    color: white;
+    background-color: rgb(27, 103, 60);
+    border: 2px solid rgb(27, 103, 60);
+
+}
+.PrtBtn:hover{
+    background-color: rgb(14, 76, 41);
+}
